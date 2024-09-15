@@ -1,0 +1,4 @@
+# Separate Login and Signup Pages. Make the Navigation Flow between them.
+# If you successfully login, take it to another another page call it home page where he
+# can view his username and change his password. Once user changed his password,
+ # he can login with new password
